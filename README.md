@@ -7,7 +7,7 @@ Start it
 ----------
 
 ```sh
-    docker run -d -p 1080:1080 -p 1025:1025 --name mailcatcher sebastienbeau/lightweight-mailcatcher
+    docker run -d -p 1080:1080 -p 1025:1025 --name mailcatcher akretion/lightweight-mailcatcher
 ```
 
 Stop it
